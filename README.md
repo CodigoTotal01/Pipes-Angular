@@ -1,27 +1,17 @@
 # PipesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+In this project, I generated a web application in charge of showing the different most useful pipes within Angular and also to show the design, ngPrime implements a very good template at the business level to show an attractive project.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Text
+![image](https://user-images.githubusercontent.com/85316618/209901862-e13778db-bf06-44c6-8f1a-be491b8ecc98.png)
 
-## Code scaffolding
+# Number
+![image](https://user-images.githubusercontent.com/85316618/209901871-d49475a6-5fed-40c8-a781-98e8a889e93d.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Not commons
+![image](https://user-images.githubusercontent.com/85316618/209901892-39b53929-8a83-46fc-aee5-b12a9a77c587.png)
 
-## Build
+# Pipes personalized
+![image](https://user-images.githubusercontent.com/85316618/209901953-a234f6cf-8967-4a95-be01-be4361d2f239.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
